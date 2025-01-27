@@ -155,7 +155,7 @@ User - {}"""
 
     BUY_PLAN = """<b>○ <u>ғɪʀsᴛ sᴛᴇᴘ</u> : ᴘᴀʏ ᴛʜᴇ ᴀᴍᴏᴜɴᴛ ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ʏᴏᴜʀ ғᴀᴠᴏʀɪᴛᴇ ᴘʟᴀɴ ᴛᴏ ᴛʜɪs <code>rayaviseek@ibl</code> ᴜᴘɪ ɪᴅ.
     
-○ <u>secoɴᴅ sᴛᴇᴘ</u> : ᴛᴀᴋᴇ ᴀ sᴄʀᴇᴇɴsʜᴏᴛ ᴏғ ʏᴏᴜʀ ᴘᴀʏᴍᴇɴᴛ ᴀɴᴅ sʜᴀʀᴇ ɪᴛ ᴅɪʀᴇᴄᴛʟʏ ʜᴇʀᴇ: @biisal_bot 
+○ <u>secoɴᴅ sᴛᴇᴘ</u> : ᴛᴀᴋᴇ ᴀ sᴄʀᴇᴇɴsʜᴏᴛ ᴏғ ʏᴏᴜʀ ᴘᴀʏᴍᴇɴᴛ ᴀɴᴅ sʜᴀʀᴇ ɪᴛ ᴅɪʀᴇᴄᴛʟʏ ʜᴇʀᴇ:  
 
 ○ <u>ᴀʟᴛᴇʀɴᴀᴛɪᴠᴇ sᴛᴇᴘ</u> : ᴏʀ ᴜᴘʟᴏᴀᴅ ᴛʜᴇ sᴄʀᴇᴇɴsʜᴏᴛ ʜᴇʀᴇ ᴀɴᴅ ʀᴇᴘʟʏ ᴡɪᴛʜ ᴛʜᴇ /bought ᴄᴏᴍᴍᴀɴᴅ.
 
@@ -178,13 +178,13 @@ Yᴏᴜʀ <ul>ᴘʀᴇᴍɪᴜᴍ ᴘʟᴀɴ</ul> ᴡɪʟʟ ʙᴇ ᴀᴄᴛɪᴠ
 
 4:- ᴛʜᴇɴ sᴇᴛ ʏᴏᴜʀ sʜᴏʀᴛɴᴇʀ ᴅᴇᴛᴀɪʟs ʙʏ ᴛʜɪs ꜰᴏʀᴍᴀᴛ 👇
 
-<code>/set_shortner ez4short.com 837b7a64653d1b435f5e20a237840f1251d0c1ce</code>
+<code>/set_shortner ez4short.com </code>
 
-<code>/set_shortner_2 omnifly.in.net f287e7e9b1a23c34f542f77787d39607cae36a4d</code>
+<code>/set_shortner_2 omnifly.in.net </code>
 
-<code>/set_shortner_3 shortslink.in 06b24eb6bbb025713cd522fb3f696b6d5de11354</code>
+<code>/set_shortner_3 shortslink.in </code>
 
-<code>/set_tutorial https://t.me/bisal_files</code>
+<code>/set_tutorial </code>
 
 5:- ᴀᴅᴅ ʟᴏɢ ᴄʜᴀɴɴᴇʟ ʙʏ ᴛʜɪs ꜰᴏʀᴍᴀᴛ & ᴍᴀᴋᴇ sᴜʀᴇ ʙᴏᴛ ɪs ᴀᴅᴍɪɴ ɪɴ ʏᴏᴜʀ ʟᴏɢ ᴄʜᴀɴɴᴇʟ 👇
 
