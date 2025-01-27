@@ -93,7 +93,7 @@ async def start(client:Client, message):
             key = "second_time_verified" if await db.is_user_verified(user_id) else "last_verified"
         current_time = dt.now(tz=ist_timezone)
         result = await db.update_notcopy_user(user_id, {key:current_time})
-        await db.update_verify_id_info(user_id, verify_id, {"verified":True})
+        await db.update_verify_id_info(user_id, verify_id, {"verified":False})
         if key == "third_time_verified": 
             num = 3 
         else: 
